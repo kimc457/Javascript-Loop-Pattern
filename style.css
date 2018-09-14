@@ -1,0 +1,76 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: beige;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+.newHeader {
+  display: inline-block;
+}
+
+
+
+
+
+.blue {
+  background-color: lightblue;
+  border-radius: 50%;
+  margin: 10px; 
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  display: inline-block;
+  font-size: 12pt;
+  padding: 10px;
+  border: 10px solid white;
+  color: transparent;
+}
+
+.blue:hover {
+  background-color: white;
+  border-radius: 50%;
+  margin: 10px; 
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  display: inline-block;
+  font-size: 12pt;
+  padding: 10px;
+  border: 10px solid lightblue;
+  color: transparent;
+}
+
+.red {
+  background-color: lightpink;
+  border-radius: 50%;
+  margin: 10px; 
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  display: inline-block;
+  font-size: 12pt;
+  padding: 10px;
+  border: 10px solid white;
+  color: transparent;
+}
+
+.red:hover{
+  background-color: white;
+  border-radius: 50%;
+  margin: 10px; 
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  display: inline-block;
+  font-size: 12pt;
+  padding: 10px;
+  border: 10px solid lightpink;
+  color: transparent;
+}
